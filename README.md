@@ -12,6 +12,12 @@ this is a figma prototype of a redesign of the Sheridan Slate application. which
 
 ##  The top five Desirable functionalities that I have not seen in other apps include:
 
+1) Gamifacation : Using Scores or Rewards & Certificates built into the application to reward a user if they are doing well or to encourage to do well
+2) Live Group Calls : Similar Applications Such as Discord have implemented Live Group calls however that application is not an Elearning application. perhaps a Live Group call that could be more focused towards learning with features such as screen sharing , etc
+3) Building Navigation : Similar to applications such as maps indoors, our eLearning application can act more as a Navigational Companion when we are on campus to navigate to a specific room or wing. Implementing indoor navigation alongside our application within large campuses can allow Students , Guests/Visitors, Professors to traverse the school in a much more faster time & wont get lost on campus.
+4) 
+5)
+
 ## Features
 - Login / Logout
 - Courses Management / Hub
