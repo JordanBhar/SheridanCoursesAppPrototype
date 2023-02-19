@@ -10,9 +10,23 @@
 
 this is a figma prototype of a redesign of the Sheridan Slate application. which is a sheridan students personal E assistant for taking courses at sheridan. this is an assignment for INFO31179 Human Computer Interaction. 
 
-##  top five new desirable functionlities
+##  The top five Desirable functionalities that I have not seen in other apps include:
 
 ## Features
+- Login / Logout
+- Courses Management / Hub
+   - Course Pages
+   - Assignments
+   - ClassList
+   - Grades
+   - Content
+- Private Chat & Class Chat
+- Calendar 
+- Todays Classes Widget (In Course Hub)
+
+## Demo Photos
+
+
 
 ## Links 
 
