@@ -32,6 +32,21 @@ this is a figma prototype of a redesign of the Sheridan Slate application. which
 
 ## Demo Photos
 
+<img src="https://user-images.githubusercontent.com/48815489/219976946-7569e55b-a3af-408a-a6d2-2bee11acecd5.jpg" width="100" height="100">
+<img src="https://user-images.githubusercontent.com/48815489/219976946-7569e55b-a3af-408a-a6d2-2bee11acecd5.jpg" width="100" height="100">
+<img src="" width="100" height="100">
+<img src="" width="100" height="100">
+<img src="" width="100" height="100">
+<img src="" width="100" height="100">
+<img src="" width="100" height="100">
+<img src="" width="100" height="100">
+<img src="" width="100" height="100">
+<img src="" width="100" height="100">
+<img src="" width="100" height="100">
+<img src="" width="100" height="100">
+<img src="" width="100" height="100">
+<img src="" width="100" height="100">
+<img src="" width="100" height="100">
 
 ![CourseGradesPage|250x250](https://user-images.githubusercontent.com/48815489/219976946-7569e55b-a3af-408a-a6d2-2bee11acecd5.jpg)
 ![CourseHomePage|250x250](https://user-images.githubusercontent.com/48815489/219976948-03d1bb7d-a2ff-4e21-a6b2-e80432bb97ab.jpg)
