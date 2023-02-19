@@ -16,7 +16,7 @@ this is a figma prototype of a redesign of the Sheridan Slate application. which
 
 ## Links 
 
-Youtube Demo : 
+Youtube Demo : [DEMO](https://youtu.be/U4xagKYm3e4)
 
-Figma Public URL : https://www.figma.com/proto/cmOG60szXWnjaILaI7kx6N/Sheridan-Courses-App-Version-2?page-id=0%3A1&node-id=29%3A170&viewport=542%2C233%2C0.34&scaling=scale-down&starting-point-node-id=2%3A6
+Figma Public URL : [URL](https://www.figma.com/proto/cmOG60szXWnjaILaI7kx6N/Sheridan-Courses-App-Version-2?page-id=0%3A1&node-id=29%3A170&viewport=542%2C233%2C0.34&scaling=scale-down&starting-point-node-id=2%3A6)
 
