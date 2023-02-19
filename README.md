@@ -32,22 +32,22 @@ this is a figma prototype of a redesign of the Sheridan Slate application. which
 
 ## Demo Photos
 
-<img src="https://user-images.githubusercontent.com/48815489/219976946-7569e55b-a3af-408a-a6d2-2bee11acecd5.jpg" width="250" height="250">
-<img src="https://user-images.githubusercontent.com/48815489/219976948-03d1bb7d-a2ff-4e21-a6b2-e80432bb97ab.jpg" width="250" height="250">
-<img src="https://user-images.githubusercontent.com/48815489/219976949-2a380590-b694-4194-8f3c-af6fe25c3ce9.jpg" width="250" height="250">
-<img src="https://user-images.githubusercontent.com/48815489/219976950-0977d04b-73b7-4ef1-ab03-c05ebc3ea49f.jpg" width="250" height="250">
-<img src="https://user-images.githubusercontent.com/48815489/219976951-f7c1596a-b79c-4bbd-8b22-a52736f08c74.jpg" width="250" height="250">
-<img src="https://user-images.githubusercontent.com/48815489/219976952-251b1806-6a95-404a-b5d4-51c2a3340958.jpg" width="250" height="250">
-<img src="https://user-images.githubusercontent.com/48815489/219976953-9655394e-0148-41c7-bc07-d82ccd5202bf.jpg" width="250" height="250">
-<img src="https://user-images.githubusercontent.com/48815489/219976961-a9a88766-b3d0-4e06-bbbe-4085b7fd4816.jpg" width="250" height="250">
-<img src="https://user-images.githubusercontent.com/48815489/219976962-4de4e22f-6630-4bc4-bca2-694852b54fde.jpg" width="250" height="250">
-<img src="https://user-images.githubusercontent.com/48815489/219976963-d25950e1-ba0c-4f0b-9d46-dcb47dfd192b.jpg" width="250" height="250">
-<img src="https://user-images.githubusercontent.com/48815489/219976964-afd9e2e5-3d18-4302-80a0-6df5b86c416e.jpg" width="250" height="250">
-<img src="https://user-images.githubusercontent.com/48815489/219976966-70ffc6fe-5c1b-4412-a693-f95508c9d099.jpg" width="250" height="250">
-<img src="https://user-images.githubusercontent.com/48815489/219976967-6b513225-9b53-4c31-b321-44add4b2a109.jpg" width="250" height="250">
-<img src="https://user-images.githubusercontent.com/48815489/219976969-8c3dbaf0-e5fa-4463-b2bb-2daf88f180c3.jpg" width="250" height="250">
-<img src="https://user-images.githubusercontent.com/48815489/219976970-73ba8f7e-ce7a-4ac1-98a8-a934b6e88c4c.jpg" width="250" height="250">
-<img src="https://user-images.githubusercontent.com/48815489/219976971-4e5d70a7-5937-4771-9ee9-2f48ff05b46a.jpg" width="250" height="250">
+<img src="https://user-images.githubusercontent.com/48815489/219976946-7569e55b-a3af-408a-a6d2-2bee11acecd5.jpg" width="350" height="450">
+<img src="https://user-images.githubusercontent.com/48815489/219976948-03d1bb7d-a2ff-4e21-a6b2-e80432bb97ab.jpg" width="350" height="450">
+<img src="https://user-images.githubusercontent.com/48815489/219976949-2a380590-b694-4194-8f3c-af6fe25c3ce9.jpg" width="350" height="450">
+<img src="https://user-images.githubusercontent.com/48815489/219976950-0977d04b-73b7-4ef1-ab03-c05ebc3ea49f.jpg" width="350" height="450">
+<img src="https://user-images.githubusercontent.com/48815489/219976951-f7c1596a-b79c-4bbd-8b22-a52736f08c74.jpg" width="350" height="450">
+<img src="https://user-images.githubusercontent.com/48815489/219976952-251b1806-6a95-404a-b5d4-51c2a3340958.jpg" width="350" height="450">
+<img src="https://user-images.githubusercontent.com/48815489/219976953-9655394e-0148-41c7-bc07-d82ccd5202bf.jpg" width="350" height="450">
+<img src="https://user-images.githubusercontent.com/48815489/219976961-a9a88766-b3d0-4e06-bbbe-4085b7fd4816.jpg" width="350" height="450">
+<img src="https://user-images.githubusercontent.com/48815489/219976962-4de4e22f-6630-4bc4-bca2-694852b54fde.jpg" width="350" height="450">
+<img src="https://user-images.githubusercontent.com/48815489/219976963-d25950e1-ba0c-4f0b-9d46-dcb47dfd192b.jpg" width="350" height="450">
+<img src="https://user-images.githubusercontent.com/48815489/219976964-afd9e2e5-3d18-4302-80a0-6df5b86c416e.jpg" width="350" height="450">
+<img src="https://user-images.githubusercontent.com/48815489/219976966-70ffc6fe-5c1b-4412-a693-f95508c9d099.jpg" width="350" height="450">
+<img src="https://user-images.githubusercontent.com/48815489/219976967-6b513225-9b53-4c31-b321-44add4b2a109.jpg" width="350" height="450">
+<img src="https://user-images.githubusercontent.com/48815489/219976969-8c3dbaf0-e5fa-4463-b2bb-2daf88f180c3.jpg" width="350" height="450">
+<img src="https://user-images.githubusercontent.com/48815489/219976970-73ba8f7e-ce7a-4ac1-98a8-a934b6e88c4c.jpg" width="350" height="450">
+<img src="https://user-images.githubusercontent.com/48815489/219976971-4e5d70a7-5937-4771-9ee9-2f48ff05b46a.jpg" width="350" height="450">
 
 ## Links 
 
