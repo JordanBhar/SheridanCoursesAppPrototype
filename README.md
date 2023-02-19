@@ -32,9 +32,10 @@ this is a figma prototype of a redesign of the Sheridan Slate application. which
 
 ## Demo Photos
 
-<img src="https://user-images.githubusercontent.com/48815489/219976946-7569e55b-a3af-408a-a6d2-2bee11acecd5.jpg" width="350" height="450">
-<img src="https://user-images.githubusercontent.com/48815489/219976948-03d1bb7d-a2ff-4e21-a6b2-e80432bb97ab.jpg" width="350" height="450">
-<img src="https://user-images.githubusercontent.com/48815489/219976949-2a380590-b694-4194-8f3c-af6fe25c3ce9.jpg" width="350" height="450">
+
+|<img src="https://user-images.githubusercontent.com/48815489/219976946-7569e55b-a3af-408a-a6d2-2bee11acecd5.jpg" width="350" height="450">| <img src="https://user-images.githubusercontent.com/48815489/219976948-03d1bb7d-a2ff-4e21-a6b2-e80432bb97ab.jpg" width="350" height="450"> |<img src="https://user-images.githubusercontent.com/48815489/219976949-2a380590-b694-4194-8f3c-af6fe25c3ce9.jpg" width="350" height="450">
+
+
 <img src="https://user-images.githubusercontent.com/48815489/219976950-0977d04b-73b7-4ef1-ab03-c05ebc3ea49f.jpg" width="350" height="450">
 <img src="https://user-images.githubusercontent.com/48815489/219976951-f7c1596a-b79c-4bbd-8b22-a52736f08c74.jpg" width="350" height="450">
 <img src="https://user-images.githubusercontent.com/48815489/219976952-251b1806-6a95-404a-b5d4-51c2a3340958.jpg" width="350" height="450">
